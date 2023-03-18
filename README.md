@@ -6,6 +6,8 @@ To get started with this repository, simply browse the existing submissions to s
 
 Once you've created your variation, submit a pull request to have it reviewed by the repository owners. Please be sure to include a brief description of your variation and the programming language or paradigm you used, include author details in your code.
 
+Current implementations and details are currently found in the **Set01.cs** file in the **ManyHellos** project.
+
 # Guidelines
 To ensure that all submissions are relevant and appropriate, please adhere to the following guidelines when contributing to this repository:
 
