@@ -9,9 +9,12 @@ Once you've created your variation, submit a pull request to have it reviewed by
 # Guidelines
 To ensure that all submissions are relevant and appropriate, please adhere to the following guidelines when contributing to this repository:
 
-Each variation must output the message "Hello, World!" in some way.
-Variations can be written in the C# programming language.
-Variations should be unique and distinct from existing submissions.
+* Each variation must output the string "Hello World" in some way.
+* Variations nmeed to be written in the C# programming language.
+* Variations should be unique and distinct from existing submissions.
+* Refrain from using external resources like disk and cloud.
+* Generally speaking, generate all conditions within the same class being submitted. 
+
 The repository owners reserve the right to remove any submissions that are deemed inappropriate or violate these guidelines.
 
 # Resources
