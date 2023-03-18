@@ -26,7 +26,7 @@ Looking for inspiration or help getting started with a new programming language?
 * Codecademy - offers interactive coding lessons and projects for many popular programming languages
 * Stack Overflow - a popular Q&A site for programmers of all skill levels
 
-#Contributing
+# Contributing
 If you'd like to contribute to this repository, we'd love to see your unique take on the "Hello World" program! Simply fork the repository, create a new branch for your variation, and submit a pull request.
 
 If you have any questions or concerns, please feel free to reach out to the repository owners.
