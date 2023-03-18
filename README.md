@@ -1,5 +1,5 @@
 # "Hello World" Code Variations Repository
-This repository is dedicated to exploring the many unique ways that code can be written to output the classic "Hello World" message. The goal of this project is to showcase the diversity of programming languages and paradigms, and to inspire creativity and experimentation in coding.
+This repository is dedicated to exploring the many unique ways that code can be written to output the classic "Hello World" message. The goal of this project is to showcase the diversity of the C# programming languages and it's paradigms, and to inspire creativity and experimentation in coding.
 
 # How to Use This Repository
 To get started with this repository, simply browse the existing submissions to see how different programmers have tackled the "Hello World" challenge. You can also submit your own variations by forking the repository and creating a new branch for your variation.
