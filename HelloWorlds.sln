@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorlds", "HelloWorlds\HelloWorlds.csproj", "{BD115974-0A30-4EFA-AC3D-9B164528E42D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorlds", "HelloWorlds\HelloWorlds.csproj", "{BD115974-0A30-4EFA-AC3D-9B164528E42D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldMaker", "HelloWorldMaker\HelloWorldMaker.csproj", "{BD6B2EB4-A387-4F88-A64B-F415DB577308}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ManyHellos", "ManyHellos\ManyHellos.csproj", "{E98793D9-5AE6-4264-859C-CC86E9F9507F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyHellos", "ManyHellos\ManyHellos.csproj", "{E98793D9-5AE6-4264-859C-CC86E9F9507F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{67AF32F3-D3EB-491F-9C9D-944D47E52A48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{67AF32F3-D3EB-491F-9C9D-944D47E52A48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +19,6 @@ Global
 		{BD115974-0A30-4EFA-AC3D-9B164528E42D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD115974-0A30-4EFA-AC3D-9B164528E42D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD115974-0A30-4EFA-AC3D-9B164528E42D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BD6B2EB4-A387-4F88-A64B-F415DB577308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BD6B2EB4-A387-4F88-A64B-F415DB577308}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BD6B2EB4-A387-4F88-A64B-F415DB577308}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BD6B2EB4-A387-4F88-A64B-F415DB577308}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E98793D9-5AE6-4264-859C-CC86E9F9507F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E98793D9-5AE6-4264-859C-CC86E9F9507F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E98793D9-5AE6-4264-859C-CC86E9F9507F}.Release|Any CPU.ActiveCfg = Release|Any CPU
