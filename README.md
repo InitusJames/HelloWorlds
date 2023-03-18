@@ -33,7 +33,7 @@ This repository is licensed under the MIT License. See the LICENSE file for more
 The following class function SayHello() returns "Hello World" by using a compressed set of Indexes used in waht is called a DeBruijn sequence. Iterating through these sequences eventually create the conditions to extract the string "Hello World"
 
 
-```
+```csharp
     public class ByDeBruijn : HelloWorld
     {
         public override string SayHello()
@@ -76,4 +76,4 @@ The following class function SayHello() returns "Hello World" by using a compres
             return new string(rtn);
         }
     }
-    ```
+
