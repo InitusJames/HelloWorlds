@@ -27,7 +27,7 @@ If you have any questions or concerns, please feel free to reach out to the repo
 License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
-Code Example
+#Code Example
 The following class function SayHello() returns "Hello World" by using a compressed set of Indexes used in waht is called a DeBruijn sequence. Iterating through these sequences eventually create the conditions to extract the string "Hello World"
 
 
